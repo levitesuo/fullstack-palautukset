@@ -11,3 +11,9 @@
 - [1.1-5 courseinfo](https://github.com/levitesuo/fullstack-palautukset/tree/main/Part%201/courseinfo)
 - [1.6-11: unicafe](https://github.com/levitesuo/fullstack-palautukset/tree/main/Part%201/unicafe)
 - [1.12-14: anecdotes](https://github.com/levitesuo/fullstack-palautukset/tree/main/Part%201/anecdotes)
+
+## [Part 2](https://github.com/levitesuo/fullstack-palautukset/tree/main/Part%202)
+
+- [1.1-5 courseinfo](https://github.com/levitesuo/fullstack-palautukset/tree/main/Part%202/courseinfo)
+- [1.6-17: phonebook](https://github.com/levitesuo/fullstack-palautukset/tree/main/Part%202/phonebook)
+- [2.18-20: countries](https://github.com/levitesuo/fullstack-palautukset/tree/main/Part%202/countries)
